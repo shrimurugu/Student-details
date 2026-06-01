@@ -1,0 +1,13 @@
+# Student Management System Requirements
+# Python 3.6+
+
+# No external dependencies required
+# The application uses only Python standard library modules:
+# - csv (built-in)
+# - os (built-in)
+# - datetime (built-in)
+
+# Optional: For development and testing
+pytest>=7.0.0
+black>=22.0.0
+pylint>=2.0.0
